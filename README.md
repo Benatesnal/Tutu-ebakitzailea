@@ -42,5 +42,3 @@
 4. Arazoren bat badago larrialdiko pultsadorea sapaldu
 
 
-
-![csv sample](https://github.com/Benatesnal/Hondea-makina/blob/main/images/1644822991225.jpg)
